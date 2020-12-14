@@ -1,0 +1,6 @@
+dependencies:
+- name: mysql-ei
+  repository: https://helm.wso2.com
+  version: 6.6.0-2
+digest: sha256:8a5353e36c16f461586c74a6824713ae64abb495fc7aec96deb897c376718d17
+generated: "2020-10-27T19:01:22.824016+05:30"
